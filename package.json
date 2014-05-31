@@ -1,5 +1,5 @@
 {
-  "name": "todo-app-",
+  "name": "todo-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -19,6 +19,6 @@
     "csrf": "0.0.3",
     "express-session": "^1.2.0",
     "http": "0.0.0",
-    "errorhandler": "^1.0.1",
+    "errorhandler": "^1.0.1"
   }
 }
